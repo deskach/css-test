@@ -23,3 +23,8 @@
     /*height: auto !important;*/
     /*max-width: 360px !important;*/
 /*}*/
+
+
+.ng-scope .form-group label {
+    color: red;
+}
